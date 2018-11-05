@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "OK",
+  "data": {
+    "id": null,
+    "userId": null,
+    "name": "GG"
+  },
+  "more": false
+}
